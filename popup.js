@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const copyBtn = document.getElementById('copyBtn');
 
   // API Key tích hợp trực tiếp .Dont leak pls...!
-  const apiKey = "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";
+  const apiKey = "API_KEY"; // Thay bằng Groq API key của bạn
 
   // Lấy văn bản được bôi đen
   chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
