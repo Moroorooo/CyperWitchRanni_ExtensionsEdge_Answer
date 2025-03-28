@@ -14,11 +14,11 @@ A Microsoft Edge extension that provides quick answers in Vietnamese to highligh
    https://github.com/[YourUsername]/CyperWitchRanni_ExtensionsEdge_Answer.git
 bash```
 
-2.Open Edge
-3.Click Extention
-4.Manage Extentions
-5.Load Unpacked
-6.Choose Folder : CyperWitchRanni
-7.Let's chill!
+2. Open Edge
+3. Click Extention
+4. Manage Extentions
+5. Load Unpacked
+6. Choose Folder : CyperWitchRanni
+7. Let's chill!
 -----------------------------------------------------------------------------
 [Moroorooo]
