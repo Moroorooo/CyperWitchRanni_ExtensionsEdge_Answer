@@ -23,7 +23,6 @@ bash```
    (Note, API I do not add for security reasons so you can create an account from Groq and add API to popup.js in the section:
    ```bash
    const apikey = "YOUR_API"
-bash```
 
 )
 -----------------------------------------------------------------------------
