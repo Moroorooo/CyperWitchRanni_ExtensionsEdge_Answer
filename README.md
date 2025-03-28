@@ -11,6 +11,6 @@ A Microsoft Edge extension that provides quick answers in Vietnamese to highligh
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[YourUsername]/VietAnswerExtension.git
+   https://github.com/[YourUsername]/CyperWitchRanni_ExtensionsEdge_Answer.git
 -----------------------------------------------------------------------------
 [Moroorooo]
