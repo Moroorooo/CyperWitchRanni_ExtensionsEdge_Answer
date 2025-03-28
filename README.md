@@ -1,4 +1,4 @@
-# VietAnswerExtension
+# CyperWitchRanni
 
 A Microsoft Edge extension that provides quick answers in Vietnamese to highlighted text using the Groq API.
 
